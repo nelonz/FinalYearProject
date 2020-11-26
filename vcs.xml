@@ -14,6 +14,10 @@
           <option name="url" value="https://gitlab.scm.ulster.ac.uk/com431-2020/team-020/website-team-20.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nelonz/FinalYearProject.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Matthew\PhpstormProjects" />
